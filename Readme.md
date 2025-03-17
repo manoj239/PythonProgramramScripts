@@ -13,4 +13,40 @@ Installing Packages/Modules with Python PIP
 
  Creating and Running Python files
 
- Shell scripting bs Python.
+ Shell scripting vs Python.
+ 1. Python is not OS Dependent and run on any Operating System.
+ 2. Python can work as a backend language.
+ 3. Rich Modules Inventory for python.
+ 4. When compared to shell very less effort is needed.
+    Eg: I want to create a dummy data for 10 users with name, email, ssn, etc etc
+
+Declare variables in Python and access them using Print?
+a = 10
+b = "20"
+type(a)
+type(b)
+new course = '''
+    WELCOME
+    TO
+    DEVOPS
+    TRAINING 
+    IN
+    TELUGU'''
+
+5. Python Data Types: 
+1. String
+2. Integers
+3. Dictionary Key Value pair for data.
+ {
+ 
+    'name': 'kumar",
+    'age': 30,
+    'location': 'hyd'
+}
+ 
+
+
+
+
+
+
