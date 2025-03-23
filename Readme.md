@@ -34,7 +34,7 @@ new course = '''
     TELUGU'''
 
 5. Python Data Types: 
-1. String
+1. Strings
 2. Integers
 3. Dictionary Key Value pair for data.
  {
