@@ -1,3 +1,8 @@
+$Env:AWS_ACCESS_KEY_ID='AKIAZBVTGEUNDLXBNIGF'
+$Env:AWS_SECRET_ACCESS_KEY='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'
+$Env:AWS_DEFAULT_REGION='us-east-1'
+
+
 Class-1
 Installing python on windows 
 Installing Packages/Modules with Python PIP
